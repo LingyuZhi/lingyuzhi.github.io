@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Lingyu Zhi"
+title                    : "Lingyu / Personal Website"
 title_separator          : "-"
 name                     : &name "Lingyu Zhi"
 description              : &description "Lingyu Zhi's academic homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Lingyu Zhi"
   pronouns         : # example: "she/her"  
-  bio              : "Now undergraduate @ Hunan University / Coming master student @ CASIA"
-  location         : "Beijing"
+  bio              : "An undergraduate student at Hunan University / Coming master student at CASIA"
+  location         : "Beijing, China"
   employer         : "University of Chinese Academy of Sciences"
   uri              : # URL
   email            : "lingyuzhi332@gmail.com" 
