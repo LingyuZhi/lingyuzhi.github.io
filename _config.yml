@@ -23,25 +23,22 @@ repository               : "LingyuZhi/lingyuzhi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Lingyu Zhi"
   pronouns         : # example: "she/her"  
-  bio              : "An undergraduate student at Hunan University / Coming master student at CASIA"
+  bio              : "Master's student at CASIA"
   location         : "Beijing, China"
-  employer         : "University of Chinese Academy of Sciences"
+  employer         : "Institute of Automation, Chinese Academy of Sciences"
   uri              : # URL
   email            : "lingyuzhi332@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +54,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

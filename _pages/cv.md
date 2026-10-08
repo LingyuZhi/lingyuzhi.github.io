@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+{% comment %}
 {% include base_path %}
 
 Education
@@ -62,3 +63,6 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+{% endcomment %}
+
+To be updated
